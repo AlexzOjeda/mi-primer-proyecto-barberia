@@ -27,8 +27,6 @@
 
 .header ul {
     list-style: none;
-    border-radius: 9999px;
-    border-width: 1px;
 }
 
 .header img {
@@ -42,6 +40,8 @@
     color: rgb(255, 255, 255);
     padding: 10px;
     margin: 5px;
+    border-radius: 9999px;
+    border-width: 1px;
 }
 
 .header a:hover {
