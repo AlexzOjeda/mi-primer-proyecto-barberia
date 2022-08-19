@@ -68,7 +68,7 @@
     color: #000;
     flex-direction: column;
     border-radius: 9999px;
-    border-width: 1px;
+    border-width: 2px;
 }
 
 .botonMain input:hover {
