@@ -47,7 +47,6 @@
 .header a:hover {
     color: black;
     font-weight: bold;
-    transform: skew(-15deg);
 }
 
 /* MAIN MAIN MAIN HOME-INICIO */
