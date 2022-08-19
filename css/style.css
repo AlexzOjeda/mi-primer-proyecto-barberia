@@ -99,6 +99,15 @@
     padding: 25px;
     margin: 0;
     display: inline-block;
+    font-size: 20px;
+}
+
+.tituloBarberos h2:hover{
+    transition: .2s;
+    transform: skew(-15deg);
+
+
+
 }
 
 .barberos {
@@ -418,6 +427,12 @@
     align-items: center;
     display: inline-block;
     font-size: 25px;
+}
+
+.serviciosInformacion h1:hover{
+    color: black;
+    transition: .2s;
+    transform: skew(-15deg);
 }
 
 .serviciosPublicos {
