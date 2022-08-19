@@ -27,6 +27,8 @@
 
 .header ul {
     list-style: none;
+    border-radius: 9999px;
+    border-width: 1px;
 }
 
 .header img {
